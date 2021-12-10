@@ -1,0 +1,28 @@
+.ordenarLista{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 0!important;
+    margin-bottom: .5rem!important;
+    justify-content: center!important;
+    flex: 0 0 auto;
+    width: 100%;
+}
+.form-contacto{
+    background-color: white;
+    border-radius: 4px;
+    width: 60%;
+    height: 100%;
+}
+.form-contacto input{
+    border: 1px solid #e6e6e8;
+    border-radius: 8px;
+    padding: 10px;
+    width: 90%;
+    font-size: 17px;
+    margin: 10px;
+}
+.form-contacto input:focus{
+    outline: 1px solid #1877f5;
+}

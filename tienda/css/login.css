@@ -1,0 +1,126 @@
+
+body{
+    background-color: #F1F2F6;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+img{
+    padding-left: 100px;
+    margin-left: 31%;
+}
+h2 {
+    color:black;
+    font-family: 'Arial Light', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    padding-left: 100px;
+}
+h4{
+    color:#1877f5;
+    font-family: 'Arial Light', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+hr{
+    height: 1px;
+    width: 95%;
+    border: gray;
+    background-color: rgba(85, 79, 79, 0.281);
+}
+button{
+    border: 0;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    color: white;
+}
+input{
+    border: 1px solid #e6e6e8;
+    border-radius: 8px;
+    padding: 10px;
+    width: 90%;
+    font-size: 17px;
+    margin: 10px;
+}
+input:focus{
+    outline: 1px solid #1877f5;
+}
+.containeraa{
+    width: 100%;
+    margin: 1% 1%;
+    
+    
+   
+}
+.container2aa{
+    text-align: center;
+    width: 49%;
+    margin: 1% 1%;
+    margin-left: 34%;
+    
+}
+.formularioaa{
+    background-color: white;
+    border-radius: 4px;
+    width: 60%;
+    height: 88%;
+    
+}
+
+.btnLoginaa{
+    background-color: rgb(96, 201, 236);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    width: 95%;
+}
+
+#coloraa{
+    color: orange;
+    margin-left: 24.8%;
+
+}
+
+#textoaa{
+font-size: 15px;
+margin-left: 38%;
+}
+
+#iniciaraa{
+    font-weight: bold;
+    margin-top: 2%;
+    margin-right: 40%;
+    font-size: 16px;
+}
+
+.navaa{
+    display: block;
+    padding: .5rem 1rem;
+    padding-right: .5rem!important;
+    padding-left: .5rem!important;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    font-size: 25px;
+    margin-top: 0%;
+    
+}
+
+
+.ordenarListaaa{
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 0!important;
+    margin-bottom: .5rem!important;
+    justify-content: center!important;
+    flex: 0 0 auto;
+    width: 100%;
+}
+.listafooter{
+    margin-top: 5%;
+}
